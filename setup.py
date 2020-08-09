@@ -21,7 +21,7 @@ KEYWORDS = "keyword"
 AUTHOR = "feikong"
 AUTHOR_EMAIL = "feikong@shouxin168.com"
 URL = "http://test.com"
-VERSION = "1.0.4"
+VERSION = "1.0.5"
 LICENSE = "MIT"
 setup(
     name=NAME, version=VERSION,
