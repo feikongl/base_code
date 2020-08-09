@@ -1,0 +1,4 @@
+
+
+class MySqlError(Exception):
+    pass
